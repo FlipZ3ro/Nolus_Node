@@ -21,12 +21,6 @@
 |CPU|2 vCPU|
 |Disk|120 GB SSD|
 
-### Persyaratan perangkat lunak
-
-| Komponen |
-|----------|---------------------|
-|System|Linux|
-
 
 ## INSTALASI CEPAT
 
