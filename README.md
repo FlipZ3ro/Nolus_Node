@@ -34,6 +34,7 @@
 
 ```
 wget -q -O nolus.sh https://api.nodes.guru/nolus.sh && chmod +x nolus.sh && sudo /bin/bash nolus.sh
+
 source $HOME/.bash_profile
 ```
 
