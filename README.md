@@ -27,7 +27,7 @@
 ### Copas comand install otomatis di bawah ini
 
 ```
-wget -q -O nolus.sh https://api.nodes.guru/nolus.sh && chmod +x nolus.sh && sudo /bin/bash nolus.sh
+wget -q -O nolus.sh https://raw.githubusercontent.com/arapzz/Nolus_Node/main/nolus.sh && chmod +x nolus.sh && sudo /bin/bash nolus.sh
 source $HOME/.bash_profile
 ```
 
