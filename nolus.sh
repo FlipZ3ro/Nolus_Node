@@ -13,7 +13,7 @@ sleep 2
 echo -e '\e[36mAuthor :\e[39m' ΛЯΛPZZ.ΣƬΉ
 echo -e '\e[36mTwitter :\e[39m' @arapzz1
 echo -e '\e[36mTelegram :\e[39m' @arapzz
-echo "======================================="
+echo "==========================================="
 
 if [ ! $NOLUS_NODENAME ]; then
 read -p "Enter node name: " NOLUS_NODENAME
