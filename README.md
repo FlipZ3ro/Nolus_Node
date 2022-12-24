@@ -23,7 +23,7 @@
 
 ### Persyaratan perangkat lunak
 
-| Komponen | Spesifikasi minimal |
+| Komponen |
 |----------|---------------------|
 |System|Linux|
 
