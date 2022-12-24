@@ -43,7 +43,7 @@ source $HOME/.bash_profile
 nolusd keys add wallet
 ```
 
->Copy anddress dan request faucet di discord<
+>Copy anddress dan request faucet di discord
 
 ### Cek Balance
 
