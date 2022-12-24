@@ -11,7 +11,7 @@ echo "=============================================================="
 sleep 2
 
 echo -e '\e[36mAuthor :\e[39m' ΛЯΛPZZ.ΣƬΉ
-echo -e '\e[36mTelegram Group :\e[39m' @arapzz
+echo -e '\e[36mTwitter :\e[39m' @arapzz
 echo -e '\e[36mYoutube :\e[39m' ΛЯΛPZZ.ΣƬΉ
 echo "======================================="
 
