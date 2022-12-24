@@ -70,27 +70,16 @@ journalctl -u nolusd -f
 
 ```
 nolusd tx staking create-validator \
-
 --amount=1000000unls \
-
 --pubkey=$(nolusd tendermint show-validator) \
-
 --moniker="$NOLUS_NODENAME" \
-
 --chain-id=nolus-rila \
-
 --commission-rate="0.1" \
-
 --commission-max-rate="0.10" \
-
 --commission-max-change-rate="0.01" \
-
 --min-self-delegation="1000000" \
-
 --gas-prices 0.0042unls \
-
 --from=wallet \
-
 -y
 ```
 
@@ -99,8 +88,6 @@ nolusd tx staking create-validator \
 
 ```
 systemctl stop nolusd
-
 systemctl disable nolusd
-
 rm -rf $(which nolusd) ~/.nolus ~/nolus-core
 ```
