@@ -95,3 +95,12 @@ nolusd tx staking create-validator \
 ```
 
 
+### Comand untuk menghapus node 
+
+```
+systemctl stop nolusd
+
+systemctl disable nolusd
+
+rm -rf $(which nolusd) ~/.nolus ~/nolus-core
+```
